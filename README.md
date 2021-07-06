@@ -4,6 +4,9 @@ Prueba Tecnica en NodeJS que incluye CRUD de usuarios, login y CRUD de proyectos
 # Encender Backend
 npm run dev
 
+# Pruebas Automaticas con Jest
+npm run test
+
 # Puerto de Backend
 8080
 
